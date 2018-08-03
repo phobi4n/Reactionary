@@ -657,16 +657,6 @@
        y2="290.41306" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#base-3"
-       id="linearGradient1096"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.15709639,0,0,0.13229169,-6.9101094,172.7328)"
-       x1="50.382057"
-       y1="888.17963"
-       x2="82.382057"
-       y2="888.17963" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#two"
        id="linearGradient1098"
        gradientUnits="userSpaceOnUse"
@@ -1215,7 +1205,7 @@
            height="4.2333331"
            width="5.0270834"
            id="rect1060"
-           style="opacity:1;fill:url(#linearGradient1096);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.30008757;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges" />
+           style="opacity:1;fill:#c8c3b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.30008757;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges" />
         <rect
            style="opacity:1;fill:url(#linearGradient1098);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.91930068;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges"
            id="rect1062"
@@ -1316,7 +1306,7 @@
            y="288.11484" />
       </g>
       <rect
-         style="opacity:1;fill:#ecf900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#232323;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect1092"
          width="2.1166668"
          height="0.52916664"
