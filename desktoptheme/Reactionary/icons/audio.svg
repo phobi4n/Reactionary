@@ -22,13 +22,13 @@
      id="current-color-scheme"
      type="text/css">
       .ColorScheme-Text {
-        color:#31363b;
+        
       }
       .ColorScheme-Background{
         color:#eff0f1;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
+        
       }
       .ColorScheme-ViewBackground{
         color:#fcfcfc;
@@ -40,7 +40,7 @@
         color:#3daee9;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
+        
       }
       .ColorScheme-ButtonBackground{
         color:#eff0f1;
@@ -59,9 +59,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.033799"
-     inkscape:cx="221.39695"
-     inkscape:cy="435.23705"
+     inkscape:zoom="36.067598"
+     inkscape:cx="229.63869"
+     inkscape:cy="446.66882"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -163,12 +163,12 @@
       </g>
       <rect
          y="687.10535"
-         x="236.57191"
+         x="236.32239"
          height="15.258845"
-         width="2.5"
+         width="2.999063"
          id="barr"
          class="ColorScheme-Text"
-         style="color:#31363b;opacity:1;fill:currentColor;fill-opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:0.35299909;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.38663074;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </g>
     <g
        id="audio-volume-medium"
@@ -245,12 +245,12 @@
            sodipodi:nodetypes="cscscc" />
       </g>
       <rect
-         style="color:#31363b;opacity:1;fill:currentColor;fill-opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:0.28740096;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31185913;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          class="ColorScheme-Text"
          id="rect888"
-         width="2.5"
+         width="2.9436114"
          height="10.114652"
-         x="236.57191"
+         x="236.35011"
          y="689.73816" />
     </g>
     <g
@@ -328,12 +328,12 @@
            sodipodi:nodetypes="cscscc" />
       </g>
       <rect
-         style="color:#31363b;opacity:1;fill:currentColor;fill-opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:0.19530778;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2119287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          class="ColorScheme-Text"
          id="rect916"
-         width="2.5"
+         width="2.9436114"
          height="4.6710396"
-         x="236.57191"
+         x="236.35011"
          y="692.45996" />
     </g>
     <g
@@ -410,12 +410,12 @@
            sodipodi:nodetypes="cscscc" />
       </g>
       <rect
-         style="color:#31363b;opacity:1;fill:#c40000;fill-opacity:0.9;fill-rule:evenodd;stroke:none;stroke-width:0.14302696;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:#c40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15519872;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          class="ColorScheme-Text"
          id="rect944"
-         width="2.5"
+         width="2.9436114"
          height="2.5050151"
-         x="229.14711"
+         x="228.92531"
          y="673.75714" />
     </g>
   </g>
