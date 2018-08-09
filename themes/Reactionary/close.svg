@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="14.274984"
-     inkscape:cx="17.057867"
-     inkscape:cy="19.072566"
+     inkscape:cx="24.308313"
+     inkscape:cy="27.47888"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,10 +56,10 @@
           color:#31363b;
           }
           .ColorScheme-Background{
-          color:#eff0f1;
+          
           }
           .ColorScheme-Highlight{
-          color:#eff0f1;
+          
           }
           .ColorScheme-ViewText {
           color:#31363b;
@@ -77,7 +77,7 @@
           color:#31363b;
           }
           .ColorScheme-ButtonBackground{
-          color:#eff0f1;
+          
           }
           .ColorScheme-ButtonHover {
           color:#3daee9;
@@ -1157,7 +1157,7 @@
          transform="translate(14.352978,0.07785034)"
          id="temp">
         <rect
-           style="color:#eff0f1;opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.34010017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.34010017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges"
            id="rect1333"
            class="ColorScheme-ButtonBackground"
            width="5.0270834"
@@ -1415,7 +1415,7 @@
          transform="rotate(-180,2.6649939,292.52463)"
          id="g1624">
         <rect
-           style="color:#eff0f1;opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.34010017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.34010017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal;shape-rendering:crispEdges"
            id="rect1594"
            class="ColorScheme-ButtonBackground"
            width="5.0270834"
