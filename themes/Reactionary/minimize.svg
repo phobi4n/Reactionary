@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.187876"
-     inkscape:cx="33.856996"
-     inkscape:cy="28.169133"
+     inkscape:zoom="3.568746"
+     inkscape:cx="2.4328592"
+     inkscape:cy="61.060479"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -808,7 +808,7 @@
         </g>
         <rect
            style="opacity:1;fill:currentColor;fill-opacity:0.13675214;fill-rule:evenodd;stroke:none;stroke-width:0.80803746;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-            class="ColorScheme-ButtonFocus"
+           class="ColorScheme-ButtonFocus"
            id="xxy"
            width="3.7041674"
            height="3.1749878"
