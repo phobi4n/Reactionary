@@ -19,3 +19,6 @@ theme=__aurorae__svg__Reactionary
 
 [plasmarc][Theme]
 name=Reactionary
+
+[kdeglobals][Icons]
+Theme=DamaDamas-icon-theme

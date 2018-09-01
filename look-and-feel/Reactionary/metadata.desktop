@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=Just a bit of retro fun
+Comment=A bit of retro fun
 Name=Reactionary
 X-KDE-PluginInfo-Author=Phobi4n
 X-KDE-PluginInfo-Category=Plasma Look And Feel
@@ -7,7 +7,7 @@ X-KDE-PluginInfo-Email=smithmark347@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3+
 X-KDE-PluginInfo-Name=Reactionary
-X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginInfo-Website=https://github.com/phobi4n/Reactionary
+X-KDE-PluginInfo-Version=0.9
+X-KDE-PluginInfo-Website=https://github.com/phobi4n
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1252059,kns://colorschemes.knsrc/api.kde-look.org/1252411,kns://plasma-themes.knsrc/api.kde-look.org/12522412
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1252059,kns://colorschemes.knsrc/api.kde-look.org/1252411,kns://plasma-themes.knsrc/api.kde-look.org/1252412,kns://wallpaper.knsrc/api.kde-look.org/1257847

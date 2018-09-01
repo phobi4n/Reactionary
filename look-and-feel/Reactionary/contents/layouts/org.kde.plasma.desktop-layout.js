@@ -10,11 +10,11 @@ var layout = {
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "0",
-                    "wallpaperplugin": "org.kde.color"
+                    "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "540",
-                    "DialogWidth": "720"
+                    "DialogHeight": "521",
+                    "DialogWidth": "810"
                 },
                 "/Configuration": {
                     "PreloadWeight": "0"
@@ -22,18 +22,22 @@ var layout = {
                 "/General": {
                     "arrangement": "1",
                     "iconSize": "3",
-                    "positions": "20,10,desktop:/org.kde.plasma.lookandfeelexplorer.desktop,0,1,desktop:/Home.desktop,0,0,desktop:/libreoffice6.0-startcenter.desktop,0,3,desktop:/firefox.desktop,0,2,desktop:/trash.desktop,19,9,desktop:/thunderbird.desktop,0,4",
+                    "positions": "1,11,desktop:/org.kde.konsole.desktop,0,4,desktop:/firefox.desktop,0,1,desktop:/Home.desktop,0,0,desktop:/systemsettings.desktop,0,3,desktop:/org.kde.kmail2.desktop,0,2",
                     "sortMode": "-1"
                 },
                 "/Wallpaper/org.kde.color/General": {
-                    "Color": "55,104,160"
+                    "Color": "59,110,165"
                 },
                 "/Wallpaper/org.kde.image/General": {
                     "FillMode": "2",
-                    "Image": "file:///home/mark/Wallpapers/23.jpg"
+                    "Image": "file:///home/mark/Development/Reactionary/Reactionary.svg"
+                },
+                "/Wallpaper/org.kde.potd/General": {
+                    "FillMode": "2",
+                    "Provider": "wcpotd"
                 }
             },
-            "wallpaperPlugin": "org.kde.color"
+            "wallpaperPlugin": "org.kde.image"
         }
     ],
     "panels": [
@@ -55,7 +59,7 @@ var layout = {
                             "global": "Alt+F1"
                         }
                     },
-                    "plugin": "org.kde.plasma.kicker"
+                    "plugin": "org.kde.plasma.kickoff"
                 },
                 {
                     "config": {
@@ -81,7 +85,6 @@ var layout = {
                             "DialogWidth": "720"
                         },
                         "/Configuration/General": {
-                            "launchers": "applications:firefox.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:cantata.desktop",
                             "onlyGroupWhenFull": "false",
                             "sortingStrategy": "0"
                         }
@@ -94,7 +97,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "70"
+                            "PreloadWeight": "100"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -105,10 +108,11 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "0"
+                            "PreloadWeight": "10"
                         },
                         "/Configuration/Appearance": {
-                            "enabledCalendarPlugins": "/opt/kf5/lib/plugins/plasmacalendarplugins/holidaysevents.so"
+                            "enabledCalendarPlugins": "/opt/kf5/lib/plugins/plasmacalendarplugins/holidaysevents.so",
+                            "selectedTimeZones": "Europe/London,Local"
                         },
                         "/Configuration/ConfigDialog": {
                             "DialogHeight": "540",
@@ -126,18 +130,18 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "82",
+                    "DialogHeight": "76",
                     "DialogWidth": "1920"
                 },
                 "/Configuration": {
                     "PreloadWeight": "0"
                 }
             },
-            "height": 2,
+            "height": 2.5714285714285716,
             "hiding": "normal",
             "location": "bottom",
-            "maximumLength": 106.66666666666667,
-            "minimumLength": 106.66666666666667,
+            "maximumLength": 137.14285714285714,
+            "minimumLength": 137.14285714285714,
             "offset": 0
         }
     ],
