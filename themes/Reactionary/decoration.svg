@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.49411765"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.104354"
-     inkscape:cx="97.674718"
-     inkscape:cy="48.979214"
+     inkscape:zoom="4.2795354"
+     inkscape:cx="69.605287"
+     inkscape:cy="-11.543566"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -185,6 +185,16 @@
        x2="81.312553"
        y2="832.54144"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient941"
+       id="linearGradient949"
+       gradientUnits="userSpaceOnUse"
+       x1="52.336086"
+       y1="832.54144"
+       x2="81.312553"
+       y2="832.54144"
+       gradientTransform="translate(-2.1382997,99.874943)" />
   </defs>
   <metadata
      id="metadata6504">
@@ -916,5 +926,12 @@
          x="101.02531"
          y="846.22583" />
     </g>
+    <rect
+       style="opacity:1;fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+       id="decoration-maximized-center"
+       width="32"
+       height="23"
+       x="50.148392"
+       y="920.91638" />
   </g>
 </svg>
