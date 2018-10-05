@@ -12,15 +12,15 @@ TextShadowOffsetY=2
 HaloActive=true
 
 [Layout]
-TitleHeight=26
+TitleHeight=24
 TitleEdgeTop=1
 TitleEdgeBottom=0
-TitleEdgeRight=5
-TitleEdgeLeft=5
-ButtonHeight=17
-ButtonWidth=19
-ButtonSpacing=2
-ButtonMarginTop=5
+TitleEdgeRight=2
+TitleEdgeLeft=4
+ButtonHeight=20
+ButtonWidth=24
+ButtonSpacing=0
+ButtonMarginTop=3
 BorderRight=4
 BorderLeft=4
 BorderBottom=4
