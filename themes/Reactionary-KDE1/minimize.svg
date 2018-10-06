@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.839"
-     inkscape:cx="19.75"
-     inkscape:cy="33.01"
+     inkscape:zoom="17.68"
+     inkscape:cx="16.3"
+     inkscape:cy="9.603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,37 +51,26 @@
        id="current-color-scheme"
        type="text/css">
           .ColorScheme-Text {
-          color:#31363b;
           }
           .ColorScheme-Background{
-          
           }
           .ColorScheme-Highlight{
-          
           }
           .ColorScheme-ViewText {
-          color:#31363b;
           }
           .ColorScheme-ViewBackground{
-          color:#fcfcfc;
           }
           .ColorScheme-ViewHover {
-          
           }
           .ColorScheme-ViewFocus{
-          
           }
           .ColorScheme-ButtonText {
-          color:#31363b;
           }
           .ColorScheme-ButtonBackground{
-          
           }
           .ColorScheme-ButtonHover {
-          
           }
           .ColorScheme-ButtonFocus{
-          
           }
       </style>
   </defs>
@@ -137,9 +126,9 @@
          x="5.765"
          height="20"
          width="1.001"
-         class="ColorScheme-ButtonBackground"
-         id="rect2790"
-         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
+         class="ColorScheme-ViewFocus"
+         id="DDA"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
     </g>
     <g
        transform="translate(20.23,17.42)"
@@ -172,9 +161,9 @@
            y="281" />
       </g>
       <rect
-         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
-         id="rect1559"
-         class="ColorScheme-ButtonBackground"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         id="DDB"
+         class="ColorScheme-ViewFocus"
          width="1.001"
          height="20"
          x="5.765"
@@ -211,9 +200,9 @@
            y="281.8" />
       </g>
       <rect
-         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
-         id="rect3269"
-         class="ColorScheme-ButtonBackground"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         id="DDC"
+         class="ColorScheme-ViewFocus"
          width="1.001"
          height="20"
          x="5.765"
