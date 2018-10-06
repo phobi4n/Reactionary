@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.49411765"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.15"
-     inkscape:cx="21.72"
-     inkscape:cy="56.92"
+     inkscape:zoom="10.71"
+     inkscape:cx="19.29"
+     inkscape:cy="-20.52"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -193,7 +193,7 @@
        x2="82.382057"
        y2="888.17963" />
     <linearGradient
-       gradientTransform="matrix(0.9999,0,0,0.7826,-58.53,211.7)"
+       gradientTransform="matrix(0.9999,0,0,0.7826,-1.89,205.3)"
        gradientUnits="userSpaceOnUse"
        y2="832.54144"
        x2="81.312553"
@@ -203,7 +203,7 @@
        xlink:href="#linearGradient941"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="translate(-2.1382997,99.874943)"
+       gradientTransform="matrix(1,0,0,0.9565,-1.765,134.4)"
        y2="832.54144"
        x2="81.312553"
        y1="832.54144"
@@ -400,19 +400,11 @@
        width="5.2019229"
        id="hint-stretch-borders"
        style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="920.91638"
-       x="50.148392"
-       height="23"
-       width="32"
-       id="decoration-maximized-center"
-       style="opacity:1;fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
     <g
-       transform="translate(56.64,-3.22)"
        id="decoration-top">
       <rect
-         y="854.3"
-         x="-6.255"
+         y="847.9"
+         x="50.38"
          height="18"
          width="32"
          id="aaaa"
@@ -424,12 +416,12 @@
          id="qqc"
          width="2"
          height="32"
-         x="-853.3"
-         y="-25.74" />
+         x="-846.9"
+         y="-82.38" />
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
-         y="-25.74"
-         x="-851.3"
+         y="-82.38"
+         x="-844.9"
          height="32"
          width="1"
          id="vff"
@@ -442,11 +434,11 @@
          id="qqd"
          width="1"
          height="32"
-         x="-850.3"
-         y="-25.74" />
+         x="-843.9"
+         y="-82.38" />
       <rect
-         y="873.3"
-         x="-6.255"
+         y="866.9"
+         x="50.38"
          height="2"
          width="32"
          id="rect951"
@@ -458,16 +450,16 @@
          id="rect953"
          width="32"
          height="1"
-         x="-6.255"
-         y="853.3" />
+         x="50.38"
+         y="846.9" />
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          class="ColorScheme-Background"
          id="rect971"
          width="32"
          height="1"
-         x="-6.255"
-         y="872.3" />
+         x="50.38"
+         y="865.9" />
     </g>
     <g
        transform="translate(0.122,4.18)"
@@ -957,6 +949,32 @@
          id="rect978"
          class="ColorScheme-Background"
          style="opacity:1;fill:url(#linearGradient986);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4748;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+    </g>
+    <g
+       id="decoration-maximized-center">
+      <rect
+         style="opacity:1;fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         id="rect1577"
+         width="32"
+         height="22"
+         x="50.52"
+         y="919.7" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect1562"
+         width="32"
+         height="1"
+         x="50.52"
+         y="942.7" />
+      <rect
+         y="941.7"
+         x="50.52"
+         height="1"
+         width="32"
+         id="rect1587"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:#fdfdfd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
     </g>
   </g>
 </svg>
