@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.839"
-     inkscape:cx="40.74"
+     inkscape:cx="19.75"
      inkscape:cy="33.01"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +139,7 @@
          width="1.001"
          class="ColorScheme-ButtonBackground"
          id="rect2790"
-         style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
+         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
     </g>
     <g
        transform="translate(20.23,17.42)"
@@ -172,7 +172,7 @@
            y="281" />
       </g>
       <rect
-         style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
          id="rect1559"
          class="ColorScheme-ButtonBackground"
          width="1.001"
@@ -211,7 +211,7 @@
            y="281.8" />
       </g>
       <rect
-         style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
          id="rect3269"
          class="ColorScheme-ButtonBackground"
          width="1.001"
