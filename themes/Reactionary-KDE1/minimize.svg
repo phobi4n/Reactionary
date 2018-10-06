@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.9"
-   height="47.39"
-   viewBox="0 0 55.9 47.39"
+   width="79.09"
+   height="50.02"
+   viewBox="0 0 79.09 50.02"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.68"
-     inkscape:cx="15.64"
-     inkscape:cy="51.91"
+     inkscape:zoom="8.839"
+     inkscape:cx="40.74"
+     inkscape:cy="33.01"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="210"
      inkscape:window-y="256"
      inkscape:window-maximized="0"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
@@ -93,24 +93,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0.3182,-286.5)"
+     transform="translate(2.032,-283.3)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       id="active-center">
+       id="active-center"
+       transform="translate(-2.797,17.42)">
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
          id="rect942"
          class="ColorScheme-ButtonBackground"
-         width="24.05"
+         width="23.03"
          height="20"
-         x="5.256"
+         x="5.765"
          y="270.9" />
       <g
          style="stroke-width:0.75"
@@ -133,12 +134,129 @@
       </g>
       <rect
          y="270.9"
-         x="5.256"
+         x="5.765"
          height="20"
          width="1.001"
          class="ColorScheme-ButtonBackground"
          id="rect2790"
          style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
     </g>
+    <g
+       transform="translate(20.23,17.42)"
+       id="hover-center">
+      <rect
+         y="270.9"
+         x="5.765"
+         height="20"
+         width="23.03"
+         class="ColorScheme-ButtonBackground"
+         id="rect1551"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
+      <g
+         id="g1557"
+         transform="matrix(1.333,0,0,1.333,-5.097,-94.33)"
+         style="stroke-width:0.75">
+        <rect
+           y="280"
+           x="15.29"
+           height="3"
+           width="3"
+           id="rect1553"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal" />
+        <rect
+           style="opacity:1;fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal"
+           id="rect1555"
+           width="2"
+           height="2"
+           x="16.29"
+           y="281" />
+      </g>
+      <rect
+         style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         id="rect1559"
+         class="ColorScheme-ButtonBackground"
+         width="1.001"
+         height="20"
+         x="5.765"
+         y="270.9" />
+    </g>
+    <g
+       transform="translate(-2.797,37.42)"
+       id="pressed-center">
+      <rect
+         y="270.9"
+         x="5.765"
+         height="20"
+         width="23.03"
+         class="ColorScheme-ButtonBackground"
+         id="rect3261"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
+      <g
+         id="g3267"
+         transform="matrix(1.333,0,0,1.333,-5.097,-94.33)"
+         style="stroke-width:0.75">
+        <rect
+           y="280.8"
+           x="16.04"
+           height="3"
+           width="3"
+           id="rect3263"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal" />
+        <rect
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal"
+           id="rect3265"
+           width="2"
+           height="2"
+           x="17.04"
+           y="281.8" />
+      </g>
+      <rect
+         style="opacity:1;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+         id="rect3269"
+         class="ColorScheme-ButtonBackground"
+         width="1.001"
+         height="20"
+         x="5.765"
+         y="270.9" />
+    </g>
+    <g
+       transform="translate(20.23,37.42)"
+       id="inactive-center">
+      <rect
+         y="270.9"
+         x="5.765"
+         height="20"
+         width="23.03"
+         class="ColorScheme-ButtonBackground"
+         id="rect843"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges" />
+      <g
+         id="g849"
+         transform="matrix(1.333,0,0,1.333,-5.097,-94.33)"
+         style="stroke-width:0.75">
+        <rect
+           y="280"
+           x="15.29"
+           height="3"
+           width="3"
+           id="rect845"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal" />
+        <rect
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.5001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal"
+           id="rect847"
+           width="2"
+           height="2"
+           x="16.29"
+           y="281" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3402;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal;shape-rendering:crispEdges"
+       id="deactivated-center"
+       class="ColorScheme-ButtonBackground"
+       width="23.03"
+       height="20"
+       x="49.03"
+       y="288.3" />
   </g>
 </svg>

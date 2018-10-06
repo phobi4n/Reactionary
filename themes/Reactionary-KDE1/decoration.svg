@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.49411765"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.11"
-     inkscape:cx="36.89"
-     inkscape:cy="51.53"
+     inkscape:zoom="15.15"
+     inkscape:cx="21.72"
+     inkscape:cy="56.92"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,25 +46,37 @@
      fit-margin-left="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true">
     <inkscape:grid
-       originy="-138.95848"
-       originx="-41.382055"
-       snapvisiblegridlinesonly="true"
-       enabled="true"
-       visible="true"
-       empspacing="5"
+       type="xygrid"
        id="grid7260"
-       type="xygrid" />
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-41.382055"
+       originy="-138.95848" />
   </sodipodi:namedview>
   <defs
      id="defs6501">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient984">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.03"
+         offset="0"
+         id="stop980" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.22"
+         offset="1"
+         id="stop982" />
+    </linearGradient>
     <style
-       type="text/css"
-       id="current-color-scheme">
+       id="current-color-scheme"
+       type="text/css">
           .ColorScheme-Text {
           color:#31363b;
           }
@@ -100,106 +112,115 @@
           }
       </style>
     <g
-       class="ColorScheme-Highlight"
-       id="g11">
+       id="g11"
+       class="ColorScheme-Highlight">
       <linearGradient
-         inkscape:collect="always"
-         id="linearGradient941">
+         id="linearGradient941"
+         inkscape:collect="always">
         <stop
-           style="stop-color:currentColor;stop-opacity:1"
+           id="stop937"
            offset="0"
-           id="stop937" />
+           style="stop-color:currentColor;stop-opacity:1" />
         <stop
-           style="stop-color:currentColor;stop-opacity:1"
+           id="stop1937"
            offset="0.3"
-           id="stop1937" />
+           style="stop-color:currentColor;stop-opacity:1" />
         <g
-           class="ColorScheme-ViewHover"
-           id="g8">
+           id="g8"
+           class="ColorScheme-ViewHover">
           <stop
-             style="stop-color:currentColor;stop-opacity:1"
+             id="stop939"
              offset="1"
-             id="stop939" />
+             style="stop-color:currentColor;stop-opacity:1" />
         </g>
       </linearGradient>
     </g>
     <linearGradient
-       id="base-3"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="base-3">
       <stop
-         style="stop-color:#d4d0c8;stop-opacity:1;"
+         id="stop1558"
          offset="0"
-         id="stop1558" />
+         style="stop-color:#d4d0c8;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#base-3"
+       gradientUnits="userSpaceOnUse"
+       y2="888.17963"
+       x2="82.382057"
+       y1="888.17963"
+       x1="50.382057"
        id="linearGradient1562"
-       x1="50.382057"
-       y1="888.17963"
-       x2="82.382057"
-       y2="888.17963"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#base-3"
+       inkscape:collect="always" />
     <linearGradient
-       y2="888.17963"
-       x2="82.382057"
-       y1="888.17963"
-       x1="50.382057"
-       gradientTransform="matrix(0.0625,0,0,0.0625,84.151152,855.03561)"
-       gradientUnits="userSpaceOnUse"
+       inkscape:collect="always"
+       xlink:href="#base-3"
        id="linearGradient7656"
-       xlink:href="#base-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="888.17963"
-       x2="82.382057"
-       y1="888.17963"
-       x1="50.382057"
-       gradientTransform="matrix(0.0625,0,0,0.0625,907.1507,-1.9501591)"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0625,0,0,0.0625,84.151152,855.03561)"
+       x1="50.382057"
+       y1="888.17963"
+       x2="82.382057"
+       y2="888.17963" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#base-3"
        id="linearGradient7685"
-       xlink:href="#base-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="888.17963"
-       x2="82.382057"
-       y1="888.17963"
-       x1="50.382057"
-       gradientTransform="matrix(0.0625,0,0,0.0625,907.1507,-1.9501591)"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0625,0,0,0.0625,907.1507,-1.9501591)"
+       x1="50.382057"
+       y1="888.17963"
+       x2="82.382057"
+       y2="888.17963" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#base-3"
        id="linearGradient7752"
-       xlink:href="#base-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="888.17963"
-       x2="82.382057"
-       y1="888.17963"
-       x1="50.382057"
+       gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.0625,0,0,0.0625,907.1507,-1.9501591)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient7814"
+       x1="50.382057"
+       y1="888.17963"
+       x2="82.382057"
+       y2="888.17963" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#base-3"
+       id="linearGradient7814"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0625,0,0,0.0625,907.1507,-1.9501591)"
+       x1="50.382057"
+       y1="888.17963"
+       x2="82.382057"
+       y2="888.17963" />
+    <linearGradient
+       gradientTransform="matrix(0.9999,0,0,0.7826,-58.53,211.7)"
+       gradientUnits="userSpaceOnUse"
+       y2="832.54144"
+       x2="81.312553"
+       y1="832.54144"
+       x1="52.336086"
+       id="linearGradient943"
+       xlink:href="#linearGradient941"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-2.1382997,99.874943)"
+       y2="832.54144"
+       x2="81.312553"
+       y1="832.54144"
+       x1="52.336086"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient949"
+       xlink:href="#linearGradient941"
        inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient941"
-       id="linearGradient943"
-       x1="52.336086"
-       y1="832.54144"
-       x2="81.312553"
-       y2="832.54144"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9999,0,0,0.7826,-58.53,211.7)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient941"
-       id="linearGradient949"
-       gradientUnits="userSpaceOnUse"
-       x1="52.336086"
-       y1="832.54144"
-       x2="81.312553"
-       y2="832.54144"
-       gradientTransform="translate(-2.1382997,99.874943)" />
+       xlink:href="#linearGradient984"
+       id="linearGradient986"
+       x1="109.8"
+       y1="804.2"
+       x2="141.8"
+       y2="804.2"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata6504">
@@ -214,106 +235,484 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-41.382055,-841.17962)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-41.382055,-841.17962)">
+    <rect
+       y="872.2"
+       x="50.38"
+       height="32"
+       width="32"
+       id="decoration-center"
+       class="ColorScheme-Background"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+    <g
+       id="decoration-right"
+       transform="translate(-30.564428,19.641781)">
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         id="wwe"
+         class="ColorScheme-Background"
+         width="2"
+         height="32"
+         x="112.94648"
+         y="852.53784" />
+      <rect
+         y="852.53784"
+         x="114.94648"
+         height="32"
+         width="1"
+         class="ColorScheme-ButtonHover"
+         id="bhc"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         class="ColorScheme-ButtonFocus"
+         id="bfc"
+         width="1"
+         height="32"
+         x="115.94648"
+         y="852.53784" />
+    </g>
+    <g
+       transform="rotate(90,71.843377,863.07652)"
+       id="decoration-bottom">
+      <rect
+         y="852.53784"
+         x="112.94648"
+         height="32"
+         width="2"
+         id="wwc"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         class="ColorScheme-ButtonHover"
+         id="bhe"
+         width="1"
+         height="32"
+         x="114.94648"
+         y="852.53784" />
+      <rect
+         y="852.53784"
+         x="115.94648"
+         height="32"
+         width="1"
+         class="ColorScheme-ButtonFocus"
+         id="bfe"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+    </g>
+    <g
+       id="decoration-bottomright"
+       transform="rotate(90,88.524638,905.40423)">
+      <path
+         id="bfd"
+         class="ColorScheme-ButtonFocus"
+         transform="translate(29.382057,851.17963)"
+         d="m 57.917969,56.367188 v 1 h 3 v 3 h 1 v -4 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ButtonHover"
+         id="bhd"
+         d="m 87.300026,908.54682 v 1 h 2 v 2 h 1 v -3 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         id="wwd"
+         class="ColorScheme-Background"
+         width="2"
+         height="2"
+         x="87.300026"
+         y="909.54681" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,163.3,19.7)"
+       id="decoration-left">
+      <rect
+         y="852.5"
+         x="112.9"
+         height="32"
+         width="2"
+         id="qqj"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         id="vfb"
+         class="ColorScheme-ViewFocus"
+         width="1"
+         height="32"
+         x="114.9"
+         y="852.5" />
+      <rect
+         y="852.5"
+         x="115.9"
+         height="32"
+         width="1"
+         id="qqk"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+    </g>
+    <g
+       id="decoration-bottomleft"
+       transform="translate(-4.1789878,-6.1199372)">
+      <path
+         inkscape:connector-curvature="0"
+         id="wwa"
+         class="ColorScheme-Background"
+         d="m 50.561043,910.29956 v 4 l 1,-1 v -3 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="vfa"
+         class="ColorScheme-ViewFocus"
+         d="m 51.561043,910.29956 v 3 l 1,-1 v -2 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         y="52.561043"
+         x="910.29956"
+         height="2"
+         width="2"
+         id="wwb"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+      <path
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         d="m 54.561043,913.29956 h -3 l 1,-1 h 2 z"
+         class="ColorScheme-ButtonHover"
+         id="bhf"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         d="m 54.561043,914.29956 h -4 l 1,-1 h 3 z"
+         class="ColorScheme-ButtonFocus"
+         id="bff"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="840.53094"
+       x="27.798594"
+       height="4.375"
+       width="5.2019229"
+       id="hint-stretch-borders"
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="920.91638"
+       x="50.148392"
+       height="23"
+       width="32"
+       id="decoration-maximized-center"
+       style="opacity:1;fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+    <g
+       transform="translate(56.64,-3.22)"
+       id="decoration-top">
+      <rect
+         y="854.3"
+         x="-6.255"
+         height="18"
+         width="32"
+         id="aaaa"
+         style="opacity:1;fill:url(#linearGradient943);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="qqc"
+         width="2"
+         height="32"
+         x="-853.3"
+         y="-25.74" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-25.74"
+         x="-851.3"
+         height="32"
+         width="1"
+         id="vff"
+         class="ColorScheme-ViewFocus"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="qqd"
+         width="1"
+         height="32"
+         x="-850.3"
+         y="-25.74" />
+      <rect
+         y="873.3"
+         x="-6.255"
+         height="2"
+         width="32"
+         id="rect951"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect953"
+         width="32"
+         height="1"
+         x="-6.255"
+         y="853.3" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect971"
+         width="32"
+         height="1"
+         x="-6.255"
+         y="872.3" />
+    </g>
+    <g
+       transform="translate(0.122,4.18)"
+       id="decoration-topright">
+      <g
+         id="g1684"
+         transform="rotate(-180,69.91,878.1)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1674"
+           class="ColorScheme-ButtonFocus"
+           d="m 50.56,910.3 v 4 l 1,-1 v -3 z"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1676"
+           class="ColorScheme-ButtonHover"
+           d="m 51.56,910.3 v 3 l 1,-1 v -2 z"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+        <rect
+           transform="matrix(0,1,1,0,0,0)"
+           y="52.56"
+           x="910.3"
+           height="2"
+           width="2"
+           id="rect1678"
+           class="ColorScheme-Background"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+        <path
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+           d="m 54.56,913.3 h -3 l 1,-1 h 2 z"
+           id="path1680"
+           class="ColorScheme-ViewFocus"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+           d="m 54.56,914.3 h -4 l 1,-1 h 3 z"
+           class="ColorScheme-Background"
+           id="path1682"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="846"
+         x="85.26"
+         height="22"
+         width="2"
+         class="ColorScheme-Background"
+         id="rect1686"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         id="rect1688"
+         class="ColorScheme-ButtonHover"
+         width="1"
+         height="22"
+         x="87.26"
+         y="846" />
+      <rect
+         y="846"
+         x="88.26"
+         height="22"
+         width="1"
+         class="ColorScheme-ButtonFocus"
+         id="rect1690"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+    </g>
+    <g
+       transform="translate(-2.517,-0.6496)"
+       id="decoration-topleft">
+      <g
+         transform="matrix(1,0,0,-1,-5.11,1759)"
+         id="g1746">
+        <path
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+           d="m 50.56,910.3 v 4 l 1,-1 v -3 z"
+           class="ColorScheme-Background"
+           id="path1736"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+           d="m 51.56,910.3 v 3 l 1,-1 v -2 z"
+           id="path1738"
+           class="ColorScheme-ViewFocus"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+           id="rect1740"
+           class="ColorScheme-Background"
+           width="2"
+           height="2"
+           x="910.3"
+           y="52.56"
+           transform="matrix(0,1,1,0,0,0)" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1742"
+           class="ColorScheme-ViewFocus"
+           d="m 54.56,913.3 h -3 l 1,-1 h 2 z"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1744"
+           class="ColorScheme-Background"
+           d="m 54.56,914.3 h -4 l 1,-1 h 3 z"
+           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      </g>
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect1748"
+         width="2"
+         height="22"
+         x="-49.45"
+         y="848.4" />
+      <rect
+         transform="scale(-1,1)"
+         y="848.4"
+         x="-47.45"
+         height="22"
+         width="1"
+         class="ColorScheme-ViewFocus"
+         id="rect1750"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         transform="scale(-1,1)"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect1752"
+         width="1"
+         height="22"
+         x="-46.48"
+         y="848.4" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal"
+         id="rect1859"
+         width="0.9999"
+         height="1"
+         x="48.47"
+         y="867.4" />
+      <rect
+         style="opacity:1;fill:#040404;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4739;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-ButtonHover"
+         id="rect1754"
+         width="1"
+         height="18.72"
+         x="48.47"
+         y="848.7" />
+    </g>
     <rect
        style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
        class="ColorScheme-Background"
-       id="decoration-center"
+       id="decoration-inactive-center"
        width="32"
        height="32"
-       x="51.87"
-       y="873.5" />
+       x="110.3"
+       y="872.2" />
     <g
-       transform="translate(-30.564428,19.641781)"
-       id="decoration-right">
+       transform="translate(29.39,19.64)"
+       id="decoration-inactive-right">
       <rect
-         y="852.53784"
-         x="112.94648"
+         y="852.5"
+         x="112.9"
          height="32"
          width="2"
          class="ColorScheme-Background"
-         id="wwe"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+         id="rect1517"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
       <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="bhc"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         id="rect1519"
          class="ColorScheme-ButtonHover"
          width="1"
          height="32"
-         x="114.94648"
-         y="852.53784" />
+         x="114.9"
+         y="852.5" />
       <rect
-         y="852.53784"
-         x="115.94648"
+         y="852.5"
+         x="115.9"
          height="32"
          width="1"
-         id="bfc"
+         id="rect1521"
          class="ColorScheme-ButtonFocus"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
     </g>
     <g
-       id="decoration-bottom"
-       transform="rotate(90,71.843377,863.07652)">
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         class="ColorScheme-Background"
-         id="wwc"
-         width="2"
-         height="32"
-         x="112.94648"
-         y="852.53784" />
-      <rect
-         y="852.53784"
-         x="114.94648"
-         height="32"
-         width="1"
-         id="bhe"
-         class="ColorScheme-ButtonHover"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="bfe"
-         class="ColorScheme-ButtonFocus"
-         width="1"
-         height="32"
-         x="115.94648"
-         y="852.53784" />
-    </g>
-    <g
-       transform="rotate(90,88.524638,905.40423)"
-       id="decoration-bottomright">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 57.917969,56.367188 v 1 h 3 v 3 h 1 v -4 z"
-         transform="translate(29.382057,851.17963)"
-         class="ColorScheme-ButtonFocus"
-         id="bfd" />
-      <path
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 87.300026,908.54682 v 1 h 2 v 2 h 1 v -3 z"
-         id="bhd"
-         class="ColorScheme-ButtonHover"
-         inkscape:connector-curvature="0" />
-      <rect
-         y="909.54681"
-         x="87.300026"
-         height="2"
-         width="2"
-         class="ColorScheme-Background"
-         id="wwd"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <g
-       id="decoration-left"
-       transform="matrix(-1,0,0,1,161.4,23.47)">
+       id="decoration-inactive-bottom"
+       transform="rotate(90,101.8,893.1)">
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          class="ColorScheme-Background"
-         id="qqj"
+         id="rect1525"
+         width="2"
+         height="32"
+         x="112.9"
+         y="852.5" />
+      <rect
+         y="852.5"
+         x="114.9"
+         height="32"
+         width="1"
+         id="rect1527"
+         class="ColorScheme-ButtonHover"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         id="rect1529"
+         class="ColorScheme-ButtonFocus"
+         width="1"
+         height="32"
+         x="115.9"
+         y="852.5" />
+    </g>
+    <g
+       transform="rotate(90,118.5,935.4)"
+       id="decoration-inactive-bottomright">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         d="m 57.92,56.37 v 1 h 3 v 3 h 1 v -4 z"
+         transform="translate(29.38,851.2)"
+         class="ColorScheme-ButtonFocus"
+         id="path1533" />
+      <path
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         d="m 87.3,908.5 v 1 h 2 v 2 h 1 v -3 z"
+         id="path1535"
+         class="ColorScheme-ButtonHover"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="909.5"
+         x="87.3"
+         height="2"
+         width="2"
+         class="ColorScheme-Background"
+         id="rect1537"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+    </g>
+    <g
+       id="decoration-inactive-left"
+       transform="matrix(-1,0,0,1,223.3,19.7)">
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect1541"
          width="2"
          height="32"
          x="112.9"
@@ -324,504 +723,76 @@
          height="32"
          width="1"
          class="ColorScheme-ViewFocus"
-         id="vfb"
+         id="rect1543"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          class="ColorScheme-Background"
-         id="qqk"
+         id="rect1545"
          width="1"
          height="32"
          x="115.9"
          y="852.5" />
     </g>
     <g
-       transform="translate(-4.1789878,-6.1199372)"
-       id="decoration-bottomleft">
+       transform="translate(55.77,-6.12)"
+       id="decoration-inactive-bottomleft">
       <path
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 50.561043,910.29956 v 4 l 1,-1 v -3 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         d="m 50.56,910.3 v 4 l 1,-1 v -3 z"
          class="ColorScheme-Background"
-         id="wwa"
+         id="path1549"
          inkscape:connector-curvature="0" />
       <path
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 51.561043,910.29956 v 3 l 1,-1 v -2 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         d="m 51.56,910.3 v 3 l 1,-1 v -2 z"
          class="ColorScheme-ViewFocus"
-         id="vfa"
+         id="path1551"
          inkscape:connector-curvature="0" />
       <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          class="ColorScheme-Background"
-         id="wwb"
+         id="rect1553"
          width="2"
          height="2"
-         x="910.29956"
-         y="52.561043"
+         x="910.3"
+         y="52.56"
          transform="matrix(0,1,1,0,0,0)" />
       <path
          inkscape:connector-curvature="0"
-         id="bhf"
+         id="path1555"
          class="ColorScheme-ButtonHover"
-         d="m 54.561043,913.29956 h -3 l 1,-1 h 2 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
+         d="m 54.56,913.3 h -3 l 1,-1 h 2 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
       <path
          inkscape:connector-curvature="0"
-         id="bff"
+         id="path1557"
          class="ColorScheme-ButtonFocus"
-         d="m 54.561043,914.29956 h -4 l 1,-1 h 3 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <rect
-       y="871.70428"
-       x="108.0562"
-       height="32"
-       width="32"
-       id="decoration-inactive-center"
-       class="ColorScheme-Background"
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    <g
-       id="decoration-inactive-right"
-       transform="translate(27.109715,19.166445)">
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="rect934"
-         class="ColorScheme-Background"
-         width="2"
-         height="32"
-         x="112.94648"
-         y="852.53784" />
-      <rect
-         y="852.53784"
-         x="114.94648"
-         height="32"
-         width="1"
-         id="bhj"
-         class="ColorScheme-ButtonHover"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="bfj"
-         class="ColorScheme-ButtonFocus"
-         width="1"
-         height="32"
-         x="115.94648"
-         y="852.53784" />
-    </g>
-    <g
-       transform="rotate(90,100.91812,891.67592)"
-       id="decoration-inactive-bottom">
-      <rect
-         y="852.53784"
-         x="112.94648"
-         height="32"
-         width="2"
-         id="rect942"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="bhh"
-         class="ColorScheme-ButtonHover"
-         width="1"
-         height="32"
-         x="114.94648"
-         y="852.53784" />
-      <rect
-         y="852.53784"
-         x="115.94648"
-         height="32"
-         width="1"
-         id="bfh"
-         class="ColorScheme-ButtonFocus"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <g
-       id="decoration-inactive-bottomright"
-       transform="rotate(90,117.59938,934.00363)">
-      <path
-         id="bfi"
-         class="ColorScheme-ButtonFocus"
-         transform="translate(29.382057,851.17963)"
-         d="m 57.917969,56.367188 v 1 h 3 v 3 h 1 v -4 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="bhi"
-         class="ColorScheme-ButtonHover"
-         d="m 87.300026,908.54682 v 1 h 2 v 2 h 1 v -3 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="rect954"
-         class="ColorScheme-Background"
-         width="2"
-         height="2"
-         x="87.300026"
-         y="909.54681" />
-    </g>
-    <g
-       transform="matrix(-1,0,0,1,221.00268,19.166449)"
-       id="decoration-inactive-left">
-      <rect
-         y="852.53784"
-         x="112.94648"
-         height="32"
-         width="2"
-         id="rect958"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="vfn"
-         class="ColorScheme-ViewFocus"
-         width="1"
-         height="32"
-         x="114.94648"
-         y="852.53784" />
-      <rect
-         y="852.53784"
-         x="115.94648"
-         height="32"
-         width="1"
-         id="rect962"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <g
-       id="decoration-inactive-bottomleft"
-       transform="translate(53.495155,-6.5952735)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path966"
-         class="ColorScheme-Background"
-         d="m 50.561043,910.29956 v 4 l 1,-1 v -3 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <path
-         inkscape:connector-curvature="0"
-         id="vfo"
-         class="ColorScheme-ViewFocus"
-         d="m 51.561043,910.29956 v 3 l 1,-1 v -2 z"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         y="52.561043"
-         x="910.29956"
-         height="2"
-         width="2"
-         id="rect970"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <path
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 54.561043,913.29956 h -3 l 1,-1 h 2 z"
-         class="ColorScheme-ButtonHover"
-         id="bhg"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         d="m 54.561043,914.29956 h -4 l 1,-1 h 3 z"
-         id="bfg"
-         class="ColorScheme-ButtonFocus"
-         inkscape:connector-curvature="0" />
+         d="m 54.56,914.3 h -4 l 1,-1 h 3 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
     </g>
     <g
        id="decoration-inactive-topright"
-       transform="translate(-14.622852,3.221987)">
-      <g
-         id="g1024"
-         transform="rotate(-180,104.62004,878.39093)">
-        <path
-           inkscape:connector-curvature="0"
-           id="bfl"
-           class="ColorScheme-ButtonFocus"
-           d="m 50.561043,910.29956 v 4 l 1,-1 v -3 z"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-        <path
-           inkscape:connector-curvature="0"
-           id="bhk"
-           class="ColorScheme-ButtonHover"
-           d="m 51.561043,910.29956 v 3 l 1,-1 v -2 z"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-        <rect
-           transform="matrix(0,1,1,0,0,0)"
-           y="52.561043"
-           x="910.29956"
-           height="2"
-           width="2"
-           id="rect1018"
-           class="ColorScheme-Background"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-        <path
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           d="m 54.561043,913.29956 h -3 l 1,-1 h 2 z"
-           id="vfh"
-           class="ColorScheme-ViewFocus"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           d="m 54.561043,914.29956 h -4 l 1,-1 h 3 z"
-           class="ColorScheme-Background"
-           id="path1022"
-           inkscape:connector-curvature="0" />
-      </g>
-      <rect
-         y="846.4823"
-         x="154.67905"
-         height="22"
-         width="2"
-         class="ColorScheme-Background"
-         id="rect1026"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         id="qqq"
-         class="ColorScheme-ButtonHover"
-         width="1"
-         height="22"
-         x="156.67905"
-         y="846.4823" />
-      <rect
-         y="846.4823"
-         x="157.67905"
-         height="22"
-         width="1"
-         class="ColorScheme-ButtonFocus"
-         id="bfk"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         y="845.4823"
-         x="154.67905"
-         height="23"
-         width="1"
-         id="qqqc"
-         class="ColorScheme-ButtonHover"
-         style="opacity:1;fill:currentColor;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <rect
-       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="hint-stretch-borders"
-       width="5.2019229"
-       height="4.375"
-       x="27.798594"
-       y="840.53094" />
-    <g
-       id="decoration-inactive-top"
-       transform="translate(-44.859897,7.7658102)">
-      <g
-         transform="rotate(90,103.60971,906.19603)"
-         id="g986">
-        <rect
-           y="824.88965"
-           x="-38.352161"
-           height="32"
-           width="1"
-           id="rect980"
-           class="ColorScheme-Background"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           transform="scale(-1,1)" />
-        <rect
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           id="vfi"
-           class="ColorScheme-ViewFocus"
-           width="1"
-           height="32"
-           x="-37.352161"
-           y="824.88965"
-           transform="scale(-1,1)" />
-        <rect
-           y="824.88965"
-           x="-36.352161"
-           height="32"
-           width="1"
-           id="rect984"
-           class="ColorScheme-Background"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           transform="scale(-1,1)" />
-      </g>
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         class="ColorScheme-Background"
-         id="wwwlower"
-         width="32"
-         height="23"
-         x="152.91609"
-         y="840.93848" />
-      <rect
-         y="840.93848"
-         x="152.91609"
-         height="23"
-         width="32"
-         id="wwwupper"
-         class="ColorScheme-ButtonHover"
-         style="opacity:1;fill:currentColor;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-    </g>
-    <g
-       id="decoration-inactive-topleft"
-       transform="translate(6.0308882,2.4784567)">
-      <g
-         transform="matrix(1,0,0,-1,47.464264,1757.5254)"
-         id="g1000">
-        <path
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           d="m 50.561043,910.29956 v 4 l 1,-1 v -3 z"
-           class="ColorScheme-Background"
-           id="path990"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           d="m 51.561043,910.29956 v 3 l 1,-1 v -2 z"
-           id="vjk"
-           class="ColorScheme-ViewFocus"
-           inkscape:connector-curvature="0" />
-        <rect
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-           id="rect994"
-           class="ColorScheme-Background"
-           width="2"
-           height="2"
-           x="910.29956"
-           y="52.561043"
-           transform="matrix(0,1,1,0,0,0)" />
-        <path
-           inkscape:connector-curvature="0"
-           id="vfj"
-           class="ColorScheme-ViewFocus"
-           d="m 54.561043,913.29956 h -3 l 1,-1 h 2 z"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path998"
-           class="ColorScheme-Background"
-           d="m 54.561043,914.29956 h -4 l 1,-1 h 3 z"
-           style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.91371679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      </g>
-      <rect
-         transform="scale(-1,1)"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         class="ColorScheme-Background"
-         id="rect1002"
-         width="2"
-         height="22"
-         x="-102.02531"
-         y="847.22583" />
-      <rect
-         transform="scale(-1,1)"
-         y="847.22583"
-         x="-100.02531"
-         height="22"
-         width="1"
-         class="ColorScheme-ViewFocus"
-         id="vfm"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal" />
-      <rect
-         transform="scale(-1,1)"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         class="ColorScheme-Background"
-         id="rect1006"
-         width="1"
-         height="22"
-         x="-99.025307"
-         y="847.22583" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:0.4;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-         class="ColorScheme-ButtonHover"
-         id="qqqb"
-         width="1"
-         height="23"
-         x="101.02531"
-         y="846.22583" />
-    </g>
-    <rect
-       style="opacity:1;fill:url(#linearGradient949);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.47452235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.55609759;paint-order:normal"
-       id="decoration-maximized-center"
-       width="32"
-       height="23"
-       x="50.148392"
-       y="920.91638" />
-    <g
-       id="decoration-top">
-      <rect
-         style="opacity:1;fill:url(#linearGradient943);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         id="aaaa"
-         width="32"
-         height="18"
-         x="-6.255"
-         y="854.3" />
-      <rect
-         y="-25.74"
-         x="-853.3"
-         height="32"
-         width="2"
-         id="qqc"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         transform="matrix(0,-1,-1,0,0,0)" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         class="ColorScheme-ViewFocus"
-         id="vff"
-         width="1"
-         height="32"
-         x="-851.3"
-         y="-25.74"
-         transform="matrix(0,-1,-1,0,0,0)" />
-      <rect
-         y="-25.74"
-         x="-850.3"
-         height="32"
-         width="1"
-         id="qqd"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         transform="matrix(0,-1,-1,0,0,0)" />
-      <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         class="ColorScheme-Background"
-         id="rect951"
-         width="32"
-         height="2"
-         x="-6.255"
-         y="873.3" />
-      <rect
-         y="853.3"
-         x="-6.255"
-         height="1"
-         width="32"
-         id="rect953"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
-      <rect
-         y="872.3"
-         x="-6.255"
-         height="1"
-         width="32"
-         id="rect971"
-         class="ColorScheme-Background"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
-    </g>
-    <g
-       id="decoration-topright">
+       transform="translate(57.07,4.18)">
       <g
          transform="rotate(-180,69.91,878.1)"
-         id="g1684">
+         id="g1587">
         <path
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
            d="m 50.56,910.3 v 4 l 1,-1 v -3 z"
            class="ColorScheme-ButtonFocus"
-           id="path1674"
+           id="path1577"
            inkscape:connector-curvature="0" />
         <path
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
            d="m 51.56,910.3 v 3 l 1,-1 v -2 z"
            class="ColorScheme-ButtonHover"
-           id="path1676"
+           id="path1579"
            inkscape:connector-curvature="0" />
         <rect
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
            class="ColorScheme-Background"
-           id="rect1678"
+           id="rect1581"
            width="2"
            height="2"
            x="910.3"
@@ -830,19 +801,19 @@
         <path
            inkscape:connector-curvature="0"
            class="ColorScheme-ViewFocus"
-           id="path1680"
+           id="path1583"
            d="m 54.56,913.3 h -3 l 1,-1 h 2 z"
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
         <path
            inkscape:connector-curvature="0"
-           id="path1682"
+           id="path1585"
            class="ColorScheme-Background"
            d="m 54.56,914.3 h -4 l 1,-1 h 3 z"
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
       </g>
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         id="rect1686"
+         id="rect1589"
          class="ColorScheme-Background"
          width="2"
          height="22"
@@ -854,11 +825,11 @@
          height="22"
          width="1"
          class="ColorScheme-ButtonHover"
-         id="rect1688"
+         id="rect1591"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         id="rect1690"
+         id="rect1593"
          class="ColorScheme-ButtonFocus"
          width="1"
          height="22"
@@ -866,20 +837,21 @@
          y="846" />
     </g>
     <g
-       id="decoration-topleft">
+       id="decoration-inactive-topleft"
+       transform="translate(43.59,-45.87)">
       <g
-         id="g1746"
+         id="g1607"
          transform="matrix(1,0,0,-1,-5.11,1759)">
         <path
            inkscape:connector-curvature="0"
-           id="path1736"
+           id="path1597"
            class="ColorScheme-Background"
            d="m 50.56,910.3 v 4 l 1,-1 v -3 z"
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
         <path
            inkscape:connector-curvature="0"
            class="ColorScheme-ViewFocus"
-           id="path1738"
+           id="path1599"
            d="m 51.56,910.3 v 3 l 1,-1 v -2 z"
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
         <rect
@@ -889,19 +861,19 @@
            height="2"
            width="2"
            class="ColorScheme-Background"
-           id="rect1740"
+           id="rect1601"
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
         <path
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
            d="m 54.56,913.3 h -3 l 1,-1 h 2 z"
            class="ColorScheme-ViewFocus"
-           id="path1742"
+           id="path1603"
            inkscape:connector-curvature="0" />
         <path
            style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9137;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
            d="m 54.56,914.3 h -4 l 1,-1 h 3 z"
            class="ColorScheme-Background"
-           id="path1744"
+           id="path1605"
            inkscape:connector-curvature="0" />
       </g>
       <rect
@@ -909,13 +881,13 @@
          x="-49.45"
          height="22"
          width="2"
-         id="rect1748"
+         id="rect1609"
          class="ColorScheme-Background"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          transform="scale(-1,1)" />
       <rect
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
-         id="rect1750"
+         id="rect1611"
          class="ColorScheme-ViewFocus"
          width="1"
          height="22"
@@ -927,25 +899,64 @@
          x="-46.48"
          height="22"
          width="1"
-         id="rect1752"
+         id="rect1613"
          class="ColorScheme-Background"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
          transform="scale(-1,1)" />
+    </g>
+    <g
+       id="decoration-inactive-top">
       <rect
-         y="867.4"
-         x="48.47"
-         height="1"
-         width="0.9999"
-         id="rect1859"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.877;paint-order:normal" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4748;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="XXXXX"
+         width="32"
+         height="20"
+         x="109.8"
+         y="794.2" />
       <rect
-         y="848.7"
-         x="48.47"
-         height="18.72"
+         y="-141.8"
+         x="-794.3"
+         height="32"
+         width="2"
+         id="rect1563"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4742;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-ViewFocus"
+         id="rect1565"
          width="1"
-         id="rect1754"
-         class="ColorScheme-ButtonHover"
-         style="opacity:1;fill:#040404;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4739;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
+         height="32"
+         x="-792.3"
+         y="-141.8"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         y="-141.8"
+         x="-791.3"
+         height="32"
+         width="1"
+         id="rect1567"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4741;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.9131;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal"
+         class="ColorScheme-Background"
+         id="rect1569"
+         width="32"
+         height="2"
+         x="109.8"
+         y="814.2" />
+      <rect
+         y="794.2"
+         x="109.8"
+         height="20"
+         width="32"
+         id="rect978"
+         class="ColorScheme-Background"
+         style="opacity:1;fill:url(#linearGradient986);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4748;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5561;paint-order:normal" />
     </g>
   </g>
 </svg>
