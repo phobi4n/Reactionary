@@ -8,7 +8,7 @@ IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
+ChangeSelectionColor=false
 Color=112,111,110
 ColorAmount=0.025
 ColorEffect=2
@@ -111,9 +111,9 @@ shadeSortColumn=true
 contrast=2
 
 [WM]
-activeBackground=246,247,248
+activeBackground=164,115,144
 activeBlend=252,252,252
-activeForeground=96,102,104
-inactiveBackground=44,44,44
+activeForeground=248,248,248
+inactiveBackground=73,122,129
 inactiveBlend=75,71,67
-inactiveForeground=166,166,166
+inactiveForeground=204,204,204

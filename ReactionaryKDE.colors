@@ -8,7 +8,7 @@ IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
+ChangeSelectionColor=false
 Color=112,111,110
 ColorAmount=0.025
 ColorEffect=2
@@ -49,10 +49,10 @@ ForegroundVisited=61,174,230
 [Colors:Selection]
 BackgroundAlternate=29,153,243
 BackgroundNormal=0,0,128
-DecorationFocus=255,85,127
+DecorationFocus=85,170,0
 DecorationHover=130,130,130
-ForegroundActive=252,252,252
-ForegroundInactive=239,240,241
+ForegroundActive=255,170,0
+ForegroundInactive=85,170,0
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
