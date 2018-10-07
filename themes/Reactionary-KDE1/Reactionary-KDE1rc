@@ -12,7 +12,7 @@ TextShadowOffsetY=2
 HaloActive=true
 
 [Layout]
-TitleHeight=24
+TitleHeight=26
 TitleEdgeTop=1
 TitleEdgeBottom=0
 TitleEdgeRight=2
